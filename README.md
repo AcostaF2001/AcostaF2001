@@ -42,5 +42,5 @@ Mi pasión por los videojuegos me ha llevado a desarrollar proyectos en Unity3D,
 ---
 ## 📬  **¡Conectemos!**
 📧 Email: a.felipeal@hotmail.com
-🌐 Portfolio: https://acostaf2001.github.io/Portafolio/
-💼 LinkedIn: Andrés Felipe Acosta Lozada
+🌐 Portfolio: [Portafolio](https://acostaf2001.github.io/Portafolio/)
+💼 LinkedIn: [Andrés Felipe Acosta Lozada](https://www.linkedin.com/in/andres-felipe-acosta-lozada-38bb78238/)
