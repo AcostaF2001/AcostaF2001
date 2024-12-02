@@ -23,7 +23,7 @@ const andresAcostaSkills = {
 ---
 
 ## 🌟 **Tecnologías que utilizo**
-<div align="center"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50" alt="React"> <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" alt="HTML"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50" alt="Node.js"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" alt="Unity3D"> </div>
+<div align="center"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript"> <img src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" alt="React"> <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" alt="HTML"> <img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="Node.js"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" alt="Unity3D"><img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="Unity3D"><img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS"><img src="https://media1.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" alt="VisualStudio"><img src="https://media4.giphy.com/media/AtGNnASz6qgZcxjGnb/giphy.gif" width="100" alt="Unity3d">  </div>
 
 ---
 
