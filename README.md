@@ -16,7 +16,7 @@ const andresAcostaSkills = {
   frontend: ["React", "Sass", "Flutter"],
   backend: [".NET", "Node.js"],
   videojuegos: ["Unity3D", "C#"],
-  baseDeDatos: ["PostgreSQL","MongoDB"],
+  baseDeDatos: ["PostgreSQL","MongoDB","Mysql"],
   herramientas: ["Git", "GitHub"]
 };
 ```
