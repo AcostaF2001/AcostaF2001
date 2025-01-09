@@ -8,6 +8,8 @@ Apasionado por la tecnología, el desarrollo de aplicaciones web y videojuegos. 
 
 ---
 
+
+
 ## 🚀 **Habilidades y Herramientas**
 
 ```typescript
@@ -39,6 +41,11 @@ Mi pasión por los videojuegos me ha llevado a desarrollar proyectos en Unity3D,
 🎯 Objetivo: Innovar, crear y dejar una marca en el mundo de la tecnología.
 🎮 Hobbies: Experimentar con motores de videojuegos y crear proyectos únicos.
 
+### 📊 Stats
+
+![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=AcostaF2001&show_icons=true&theme=github_dark)
+
+#
 ---
 ## 📬  **¡Conectemos!**
 📧 Email: a.felipeal@hotmail.com
