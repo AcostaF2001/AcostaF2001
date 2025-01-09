@@ -12,9 +12,9 @@ Apasionado por la tecnología, el desarrollo de aplicaciones web y videojuegos. 
 
 ```typescript
 const andresAcostaSkills = {
-  lenguajes: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frontend: ["React", "Sass", "Flutter"],
-  backend: [".NET", "Node.js"],
+  lenguajes: ["JavaScript", "TypeScript", "HTML", "CSS","Python"],
+  frontend: ["React", "Sass", "Flutter","Angular"],
+  backend: [".NET", "Node.js","Django"],
   videojuegos: ["Unity3D", "C#"],
   baseDeDatos: ["PostgreSQL","MongoDB","Mysql"],
   herramientas: ["Git", "GitHub"]
@@ -23,7 +23,7 @@ const andresAcostaSkills = {
 ---
 
 ## 🌟 **Tecnologías que utilizo**
-<div align="center"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript"> <img src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" alt="React"> <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" alt="HTML"> <img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="Node.js"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" alt="Unity3D"><img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="Unity3D"><img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS"><img src="https://media1.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" alt="VisualStudio"><img src="https://media4.giphy.com/media/AtGNnASz6qgZcxjGnb/giphy.gif" width="100" alt="Unity3d">  </div>
+<div align="center"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript"> <img src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" alt="React"> <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" alt="HTML"> <img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="Node.js"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" alt="Unity3D"><img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="Unity3D"><img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS"><img src="https://media2.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif?cid=6c09b952crnekcysknt0bz2ouu4zmyy5vflnopi8r7wrpz4x&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50" alt="Angular"><img src="https://media1.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=6c09b952n3njkixi8jg7cv10do2qmtqp3sb1mpfwwgyvfn8e&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50" alt="Python"><img src="https://media1.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=6c09b952wbov6pn7bdydo8t4hk77oov5im83e9hskawxug6f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50" alt="Git"><img src="https://media1.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" alt="VisualStudio"><img src="https://media1.giphy.com/media/KGQCBekFKkvLjlcC2g/giphy.gif?cid=6c09b952dd63jk9yxsm5484ohwu4w9gmk8jc7sbpnig6efsz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50" alt="MongoDB"><img src="https://media4.giphy.com/media/AtGNnASz6qgZcxjGnb/giphy.gif" width="100" alt="Unity3d"></div>
 
 ---
 
