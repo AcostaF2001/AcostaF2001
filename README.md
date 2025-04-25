@@ -16,7 +16,7 @@ Apasionado por la tecnología, el desarrollo de aplicaciones web y videojuegos. 
 const andresAcostaSkills = {
   lenguajes: ["JavaScript", "TypeScript", "HTML", "CSS","Python"],
   frontend: ["React", "Sass", "Flutter","Angular"],
-  backend: [".NET", "Node.js","Django"],
+  backend: [".NET", "Node.js","Django","Nestjs"],
   videojuegos: ["Unity3D", "C#"],
   baseDeDatos: ["PostgreSQL","MongoDB","Mysql"],
   herramientas: ["Git", "GitHub"]
