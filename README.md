@@ -2,7 +2,7 @@
 # 👋 ¡Hola, soy Andrés Felipe Acosta!
 
 ### 💻 Full Stack Developer & 🎮 Desarrollador de Videojuegos | Ingeniero Multimedia 💻 
-🌱 **24 años** | 🚀 **2 Años de Experiencia**
+🌱 **24 años** | 🚀 **3 Años de Experiencia**
 
 Apasionado por la tecnología, el desarrollo de aplicaciones web y videojuegos. Me encanta aprender, explorar nuevas herramientas y construir experiencias impactantes.
 
